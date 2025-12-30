@@ -86,7 +86,7 @@ n1 = 2000;
 plot_mitbih_window_samples(S, n0, n1);
 ```
 
-## Exemplo de Saída
+## Example Output
 
 ``` 
 === MIT-BIH Record 100 ===
