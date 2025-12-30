@@ -47,7 +47,7 @@ mitbih-original-read/
 
 - MATLAB (R2020b or newer recommended)
 - WFDB Toolbox for MATLAB  
-  https://github.com/MIT-LCP/wfdb-app-toolbox
+  https://archive.physionet.org/physiotools/matlab/wfdb-app-matlab/
 - MIT-BIH Arrhythmia Database (PhysioNet)
 
 ---
