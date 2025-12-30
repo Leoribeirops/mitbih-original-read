@@ -1,0 +1,27 @@
+# ===============================
+# MATLAB
+# ===============================
+
+# Arquivos temporários e de sessão
+*.asv
+*.m~
+*.autosave
+*.mat
+
+# Arquivos gerados automaticamente
+*.mex*
+*.p
+*.slxc
+*.slxc.lock
+
+# Cache e preferências
+*.prj
+*.prj.user
+*.pref
+
+# ===============================
+# Diretórios a ignorar
+# ===============================
+
+# Base de dados (ignorar tudo dentro)
+database/
