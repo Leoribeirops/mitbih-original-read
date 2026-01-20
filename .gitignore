@@ -13,6 +13,8 @@
 *.p
 *.slxc
 *.slxc.lock
+*.mat
+*.csv
 
 # Cache e preferências
 *.prj
@@ -27,3 +29,5 @@
 database/
 mcode/
 wfdb-app-toolbox-0-10-0.zip
+groundtruth/
+

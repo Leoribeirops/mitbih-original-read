@@ -7,6 +7,6 @@ function root = project_root()
 %   => root = <root>
 
     here = fileparts(mfilename('fullpath'));
-    root = fullfile(here, '..', '..');  % sobe de src/utils para a raiz
+    root = fullfile(here, '..');  % sobe de src/utils para a raiz
     root = char(java.io.File(root).getCanonicalPath()); % normaliza caminho
 end
